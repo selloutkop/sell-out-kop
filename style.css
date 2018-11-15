@@ -316,7 +316,14 @@ nav .brand-logo img {
   margin-bottom: 35px;
   text-transform: uppercase;
 }
-
+.title1{
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 1.1;
+  margin-bottom: 35px;
+  text-transform: uppercase;
+  color: #045FB4;
+}
 
 .skill-progress-bar{
   display: inline;
@@ -366,7 +373,6 @@ nav .brand-logo img {
 .experience-inner .title{
   color: #fff;
 }
-
 
 .experience-inner > p {
   color: #fff;
@@ -1041,7 +1047,7 @@ textarea.materialize-textarea {
 .contact-map{
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   border-radius: 4px;
-  height: 500px;
+  height: 507px;
   display: inline;
   float: left;
   width: 100%;
@@ -1894,7 +1900,7 @@ textarea.materialize-textarea {
   .next1 {margin-top: 20%;}
   .prev2 {margin-top: 13.5%;}
   .next2 {margin-top: 13.5%;}
-  .contact-map{height: 492px;}
+  .contact-map{height: 499px;}
 
 
 }
@@ -1916,13 +1922,16 @@ textarea.materialize-textarea {
   .blog-post-content h2, .blog-post-content h2 a {font-size: 16px;}
   .card .card-content p {font-size: 13px;}
   .card .card-action a {margin-right: 0px;}
-  .contact-map{height: 484px; margin-top: 20px;}
+  .contact-map{height: 491px;}
   .call-to-about {left: 45.5%;}
   .up-btn {left: 45.5%;}
   .custom-nav li a { padding: 25px 20px;}
 
 }
 
+@media(max-width:600px ){
+  .contact-map{margin-top: 20px;}
+}
 
 @media(max-width:767px ){
 
@@ -1979,6 +1988,7 @@ textarea.materialize-textarea {
   .personal-information > h3 {font-size: 20px;}
   .personal-information ul li {font-size: 13px;}
   .title {font-size: 25px;line-height: 1; margin-bottom: 30px;}
+  .title1 {font-size: 25px;line-height: 1; margin-bottom: 30px;}
   .skill-inner p {font-size: 13px;line-height: 25px;}
   .skill-progress-bar span { font-size: 15px;}
   .experience-inner > p {font-size: 13px;line-height: 25px;}
