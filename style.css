@@ -310,7 +310,7 @@ nav .brand-logo img {
 
 
 .title{
-  font-size: 48px;
+  font-size: 45px;
   font-weight: 700;
   line-height: 1.1;
   margin-bottom: 35px;
@@ -515,6 +515,7 @@ nav .brand-logo img {
   font-size: 14px;
   font-weight: bold;
   margin-right: 5px;
+  margin-top: 5px;
 }
 
 
@@ -1915,7 +1916,7 @@ textarea.materialize-textarea {
   .blog-post-content h2, .blog-post-content h2 a {font-size: 16px;}
   .card .card-content p {font-size: 13px;}
   .card .card-action a {margin-right: 0px;}
-  .contact-map{height: 484px;}
+  .contact-map{height: 484px; margin-top: 20px;}
   .call-to-about {left: 45.5%;}
   .up-btn {left: 45.5%;}
   .custom-nav li a { padding: 25px 20px;}
