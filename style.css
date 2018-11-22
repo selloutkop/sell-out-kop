@@ -1000,7 +1000,7 @@ transition: background-color 0.5s ease-in-out;
 
 
 .contact-form {
-  background: #fff none repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0.03);
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   display: inline;
   border-radius: 4px;
@@ -1044,20 +1044,20 @@ textarea.materialize-textarea {
 }
 
 
-.contact-map{
+.contact-social{
+  background: rgba(0, 0, 0, 0.03);
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   border-radius: 4px;
   height: 507px;
   display: inline;
   float: left;
   width: 100%;
-  background: white;
   text-align: center;
 
 }
 
  .mail{
-  width: 55px;
+  width: 65px;
   font-size: 1.2em;
 }
 .face{
@@ -1071,12 +1071,14 @@ textarea.materialize-textarea {
 .WS{
   width: 60px;
   font-size: 1.2em;
+  color: #045FB4;
 }
 .TEL{
   width: 55px;
   font-size: 1.2em;
+  color: #045FB4;
 }
-.contact-map img{
+.contact-social img{
   border-radius: 4px;
   margin-bottom: -5px;
 }
@@ -1900,7 +1902,7 @@ textarea.materialize-textarea {
   .next1 {margin-top: 20%;}
   .prev2 {margin-top: 13.5%;}
   .next2 {margin-top: 13.5%;}
-  .contact-map{height: 499px;}
+  .contact-social{height: 499px;}
 
 
 }
@@ -1922,7 +1924,7 @@ textarea.materialize-textarea {
   .blog-post-content h2, .blog-post-content h2 a {font-size: 16px;}
   .card .card-content p {font-size: 13px;}
   .card .card-action a {margin-right: 0px;}
-  .contact-map{height: 491px;}
+  .contact-social{height: 491px;}
   .call-to-about {left: 45.5%;}
   .up-btn {left: 45.5%;}
   .custom-nav li a { padding: 25px 20px;}
@@ -1930,7 +1932,7 @@ textarea.materialize-textarea {
 }
 
 @media(max-width:600px ){
-  .contact-map{margin-top: 20px;}
+  .contact-social{margin-top: 20px;}
 }
 
 @media(max-width:767px ){
@@ -1999,7 +2001,7 @@ textarea.materialize-textarea {
   .filter {margin-bottom: 5px;margin-right: 5px;}
   #portfolio-list .mix {height: 250px; margin-bottom: 15px; width: 100%;}
   .single-facts {margin-bottom: 25px;}
-  .contact-map {height: 480px;margin-top: 30px;}
+  .contact-social {height: 480px;margin-top: 30px;}
   .prev2 { margin-top: 30.5%;}
   .next2 {margin-top: 30.5%;}
   .design-info {text-align: center;width: 100%;margin-top: 15px;margin-bottom: 0px;}
