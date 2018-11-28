@@ -36,7 +36,7 @@ a {
 .card-subtitle {
   color:#045FB4;
 }
-.portfolio-top{
+.equipos-top{
   background-color:#045FB4;
 }
 .filter {
@@ -45,7 +45,7 @@ a {
 .filter:focus{
   background-color:#045FB4;
 }
-#portfolio-list .mix:hover > a::before {
+#equipos-list .mix:hover > a::before {
   background-color:#045FB4;
 }
 .counter{
@@ -74,20 +74,11 @@ a {
 .readmore-btn:hover{
   background-color:#045FB4;
 }
-#experience{
-  background-color:#045FB4;
-}
 
 .card-title i {
   color:#045FB4;
 }
 .customNavigation i{
-  color:#045FB4;
-}
-#testimonial{
-  background-color:#045FB4;
-}
-.testimonial-content h3 {
   color:#045FB4;
 }
 .footer-top{
