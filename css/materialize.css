@@ -1822,7 +1822,7 @@ code, kbd, pre, samp {
  * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
  */
 button, input, optgroup, select, textarea {
-  color: inherit;
+  color: white;
   /* 1 */
   font: inherit;
   /* 2 */

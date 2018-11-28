@@ -1,28 +1,10 @@
-/*
-Template Name: MU Material
-Author: MarkUps
-Author URI: http://www.markups.io/
-Description: MU Material - Responsive Personal Portfolio Template with Material Design
-Version: 1.0
-Tags: light, white,One page,Personal,Portfolio,Material,Flat,custom-colors,Multi Color,responsive, html5, css3
-*/
-
-
 /* Table of Content
 ==================================================
 
   #BASIC TYPOGRAPHY
   #HOME
-  #ABOUT SECTION
-  #RESUME SECTION
-  #PORTFOLIO SECTION
-  #FACTS SECTION
-  #TESTIMONIAL SECTION
-  #HOME BLOG
+  #Equipos SECTION
   #FOOTER
-  #BLOG PAGE
-  #RESPONSIVE CSS
-
 */
 
 
@@ -122,7 +104,7 @@ nav .brand-logo img {
 /* Home */
 /*--------------------*/
 
-/* 
+/*
 /* Redes Sociales */
 /* att pedro Sanchez
 
@@ -203,113 +185,15 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-/*--------------------*/
-/* ABOUT */
-/*--------------------*/
-
-#about{
-  background-color: #fafafa;
-  float: left;
-  display: inline;
-  padding: 80px 0px;
-  width: 100%;
-}
-
-
-.about-inner{
-  display: inline;
-  min-height: 300px;
-  float: left;
-  width: 100%;
-}
-
-
-.about-inner-left{
-  display: inline;
-  text-align: center;
-  float: left;
-  width: 100%;
-}
-
-
-.profile-img {
-  border: 5px solid #fff;
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  height: 130px;
-  margin: 0 auto;
-  width: 140px;
-}
-
-
-.about-inner-right{
-  min-height: 250px;
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-.about-inner-right>p{
-  color: #727272;
-  font-size: 15px;
-  line-height: 28px;
-  margin-bottom: 35px;
-}
-
-
-.about-inner-right>h3{
-  margin-top: 0px;
-  font-size: 24px;
-  font-weight: 600;
-  text-transform: uppercase;
-}
-
-
-.personal-information{
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-.personal-information>h3{
-  margin-top: 0px;
-  font-size: 24px;
-  font-weight: 600;
-  text-transform: uppercase;
-}
-
-
-.personal-information ul li{
-  border-bottom: 1px solid #eeeeee;
-  color: #727272;
-  font-size: 15px;
-  margin-bottom: 12px;
-  padding-bottom: 12px;
-}
-
-
-.resume-btn{
-  margin-top: 160px;
-  margin-left: 50px;
-}
-
-
 .pro-bar-container.color-wisteria {
   background-color: #eee;
 }
 
 
 /*--------------------*/
-/* RESUME */
+/* Proces */
 /*--------------------*/
 
-
-#resume{
-  display: inline;
-  float: left;
-  width: 100%;
-}
 
 
 #skill{
@@ -355,7 +239,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 .skill-progress-bar{
   display: inline;
   float: left;
-  width: 90%;
+  width: 98%;
   margin: 10px;
 }
 
@@ -382,132 +266,12 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-#experience{
-  display: inline;
-  padding: 60px 0;
-  float: left;
-  width: 100%;
-}
-
-
-.experience-inner{
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-.experience-inner .title{
-  color: #fff;
-}
-
-.experience-inner > p {
-  color: #fff;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 30px;
-}
-
-
-.experience-slider{
-  display: inline;
-  float: left;
-  margin-top: 55px;
-  padding-left: 20px;
-  width: 100%;
-}
-
-
-.experience-title {
-  border-bottom: 1px solid #eee;
-  color: #727272;
-  font-size: 17px;
-  font-weight: 400;
-  line-height: 1.7;
-  margin-bottom: 0;
-  margin-top: 0;
-  padding: 15px 20px;
-  text-align: center;
-}
-
-
-.experience-slider .card .card-content {
-  padding: 0 20px 20px;
-}
-
-
-.card-subtitle {
-  border-bottom: 1px solid #eee;
-  display: block;
-  padding-bottom: 10px;
-}
-
-
-.reveal-title {
-  color: #727272 !important;
-  font-size: 20px !important;
-}
-
-
-.experience-slider .card-reveal p {
-  color: #727272;
-  font-size: 15px;
-  line-height: 25px;
-}
-
-
-.prev {
-  left: 3%;
-  margin-top: 15.5%;
-  position: absolute;
-}
-
-
-.next{
-  right: 3%;
-  margin-top: 15.5%;
-  position: absolute;
-}
-
-
-
-.prev1 {
-  left: 3%;
-  margin-top: 15.5%;
-  position: absolute;
-}
-
-
-.next1{
-  right: 3%;
-  margin-top: 15.5%;
-  position: absolute;
-}
-
-
-#edcuation{
-  background-color: #fafafa;
-  display: inline;
-  padding: 60px 0;
-  float: left;
-  width: 100%;
-}
-
-
-.education-inner{
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-
 /*--------------------*/
-/* PORTFOLIO */
+/* equipos */
 /*--------------------*/
 
 
-#portfolio{
+#equipos{
   display: inline;
   padding-bottom: 100px;
   float: left;
@@ -515,7 +279,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-.portfolio-top{
+.equipos-top{
   display: inline;
   padding-top: 60px;
   float: left;
@@ -523,14 +287,14 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-.portfolio-top-inner{
+.equipos-top-inner{
   display: inline;
   float: left;
   width: 100%;
 }
 
 
-.portfolio-top-inner h2{
+.equipos-top-inner h2{
   color: #fff;
 }
 
@@ -562,7 +326,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-.portfolio-bottom{
+.equipos-bottom{
   display: inline;
   padding-top: 50px;
   width: 100%;
@@ -570,14 +334,14 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-.portfolio-bottom-inner{
+.equipos-bottom-inner{
   display: inline;
   float: left;
   width: 100%;
 }
 
 
-#portfolio-list{
+#equipos-list{
   display: inline;
   float: left;
   margin-left: -1%;
@@ -585,7 +349,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-#portfolio-list .mix{
+#equipos-list .mix{
   display: none;
   float: left;
   height: 300px;
@@ -598,7 +362,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-#portfolio-list .mix a{
+#equipos-list .mix a{
   display: block;
   position: relative;
   height: 100%;
@@ -606,7 +370,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-#portfolio-list .mix > a::before {
+#equipos-list .mix > a::before {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
   border: 0 solid transparent;
   content: "";
@@ -619,7 +383,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 }
 
 
-#portfolio-list .mix:hover > a::before {
+#equipos-list .mix:hover > a::before {
   opacity: 0.8;
   -webkit-transition: background-color 0.5s ease-in-out;
 -moz-transition: background-color 0.5s ease-in-out;
@@ -630,7 +394,7 @@ transition: background-color 0.5s ease-in-out;
 }
 
 
-#portfolio-list .mix a img{
+#equipos-list .mix a img{
   width: 100%;
   height: 100%;
 }
@@ -650,334 +414,14 @@ transition: background-color 0.5s ease-in-out;
 }
 
 
-#portfolio-list .mix:hover .view-icon {
+#equipos-list .mix:hover .view-icon {
   left: 43%;
   visibility: visible;
 }
 
 
-#portfolio-list .mix:hover {
+#equipos-list .mix:hover {
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-
-/*--------------------*/
-/* FACTS */
-/*--------------------*/
-
-
-#facts {
-  background-image: url("img/home-img3.jpg");
-  background-position: center center;
-  background-size: 100% 100%;
-  display: inline;
-  float: left;
-  position: relative;
-  width: 100%;
-}
-
-
-#facts .row{
-  margin-top: -0px;
-}
-
-
-.facts-overlay {
-  background: rgba(255, 255, 255, 0.92) none repeat scroll 0 0;
-  height: 100%;
-  padding: 100px 0;
-  width: 100%;
-}
-
-
-.facts-inner{
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-.single-facts {
-  background: #fff none repeat scroll 0 0;
-  display: inline;
-  float: left;
-  text-align: center;
-  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  padding: 50px;
-  width: 100%;
-}
-
-
-.single-facts i {
-  color: #dbdbdb;
-  display: inline-block;
-  font-size: 60px;
-  margin-bottom: 13px;
-}
-
-
-.counter{
-  display: block;
-  font-size: 50px;
-  font-weight: bold;
-  line-height: 1.1;
-  margin-bottom: 20px;
-}
-
-
-.counter-text{
-  display: block;
-  color: #727272;
-  font-size: 13px;
-  text-transform: uppercase;
-}
-
-
-/*--------------------*/
-/* TESTIMONIAL */
-/*--------------------*/
-
-
-#testimonial{
-  display: inline;
-  padding: 60px 0;
-  float: left;
-  width: 100%;
-}
-
-
-.testimonial-inner{
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-.testimonial-inner h2{
-  color: #fff;
-}
-
-
-.testimonial-inner p{
-  color: #fff;
-}
-
-
-.testimonial-slider-area{
-  display: inline;
-  float: left;
-  margin-top: 60px;
-  width: 100%;
-  position: relative;
-}
-
-
-.testimonial-slider {
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-.single-testimonial {
-  background-color: #fff;
-  border-radius: 2px;
-  margin: 0.5rem 0 1rem;
-  overflow: hidden;
-  padding: 15px;
-  position: relative;
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-}
-
-
-.testimonial-img {
-  display: inline;
-  float: left;
-  height: 150px;
-  width: 25%;
-}
-
-
-.testimonial-img img{
-  height: 100%;
-  width: 100%;
-}
-
-
-.testimonial-content{
-  float: left;
-  display: inline;
-  padding-left: 15px;
-  width: 75%;
-
-}
-
-
-.testimonial-content h3 {
-  float: left;
-  font-size: 24px;
-  margin-bottom: 0px;
-  margin-top: -10px;
-  text-align: left;
-  width: 100%;
-}
-
-
-.testimonial-content > span {
-  color: #777777;
-  display: block;
-  font-size: 13px;
-}
-
-
-.testimonial-content p{
-  color: #777777;
-  font-style: italic;
-}
-
-
-.prev2 {
-  left: -8%;
-  margin-top: 8.3%;
-  position: absolute;
-}
-
-
-.next2 {
-  margin-top: 8.3%;
-  position: absolute;
-  right: -6%;
-}
-
-
-/*--------------------*/
-/* BLOG */
-/*--------------------*/
-
-
-#blog{
-  background-color: #fafafa;
-  display: inline;
-  float: left;
-  padding: 60px 0;
-  width: 100%;
-}
-
-
-.blog-inner{
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-.blog-area{
-  display: inline;
-  float: left;
-  margin-top: 50px;
-  width: 100%;
-}
-
-
-.blog-post{
-  display: inline;
-  float: left;
-  width: 100%;
-}
-
-
-.blog-post-content {
-  padding-top: 0 !important;
-}
-
-
-.blog-post-content h2,
-.blog-post-content h2 a {
-  font-size: 20px;
-  line-height: 25px;
-  margin-bottom: 5px;
-  margin-top: 0;
-  text-align: center;
-}
-
-
-.meta-media {
-  float: left;
-  margin-bottom: 15px;
-  text-align: center;
-  width: 100%;
-}
-
-
-.single-meta {
-  color: #777;
-  display: inline-block;
-  margin-right: 10px;
-}
-
-
-.blog-post .card-action {
-  float: left;
-  padding: 15px;
-  width: 100%;
-}
-
-
-.blog-post .card .card-image {
-  padding: 5px;
-}
-
-
-.post-comment{
-  display: inline-block;
-  float: left;
-}
-
-
-.post-comment i {
-  display: inline-block;
-  float: left;
-  font-size: 20px;
-  line-height: 27px;
-  margin-right: 3px;
-}
-
-
-.post-comment span {
-  display: inline-block;
-  font-size: 16px;
-}
-
-
-.readmore-btn{
-  border-radius: 1px;
-  font-size: 13px;
-  font-weight: 500;
-  float: right;
-  padding: 4px 0 4px 10px;
-  text-transform: uppercase;
-  -webkit-transition: all 0.3s ease 0s;
-  -o-transition: all 0.3s ease 0s;
-  transition: all 0.3s ease 0s;
-
-}
-
-
-.readmore-btn:hover{
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  color: #fff !important;
-  padding-right: 10px;
-}
-
-
-.allpost-btn,
-.allpost-btn:hover{
-  background-color: #fff;
-  color: #727272;
-  font-size: 14px;
-  margin-top: 5px;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 
@@ -1945,7 +1389,7 @@ textarea.materialize-textarea {
   .next {margin-top: 28%;}
   .prev1 {margin-top: 28%;}
   .next1 {margin-top: 28%;}
-  #portfolio-list .mix {height: 200px;}
+  #equipos-list .mix {height: 200px;}
   .prev2 {margin-top: 24.5%;left: -12%;}
   .next2 {margin-top: 24.5%;right: -8.5%;}
   .blog-post-content h2, .blog-post-content h2 a {font-size: 16px;}
@@ -2026,7 +1470,7 @@ textarea.materialize-textarea {
   .prev1 { margin-top: 49%;}
   .next1{margin-top: 49%;}
   .filter {margin-bottom: 5px;margin-right: 5px;}
-  #portfolio-list .mix {height: 250px; margin-bottom: 15px; width: 100%;}
+  #equipos-list .mix {height: 250px; margin-bottom: 15px; width: 100%;}
   .single-facts {margin-bottom: 25px;}
   .contact-social {height: 480px;margin-top: 30px;}
   .prev2 { margin-top: 30.5%;}
