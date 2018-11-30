@@ -274,7 +274,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 
 .blog-image img {
   width: 100%;
-  height: 500px;
+
 }
 
 .celularesCaracteristicas h3 {
@@ -287,10 +287,10 @@ text-align: center;
 
 
 .celularesCaracteristicas {
+  left: 70px;
   position: relative;
   box-shadow: 3px 2px 15px 2px #045fb4a3;
-  float: right;
-  width: 30%;
+  width: 350px;
   height: auto;
   background: white;
   color: black;
@@ -298,17 +298,13 @@ text-align: center;
   font-weight: 100;
   font-size: 20px;
   padding: 10px;
-  left: 600px;
-  bottom: 250px;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
 
 =======
 >>>>>>> parent of 645cca4... pedro (some changes)
 =======
->>>>>>> parent of 645cca4... pedro (some changes)
+
 #equipos{
   display: inline;
   padding-bottom: 100px;
