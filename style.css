@@ -272,7 +272,36 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 /* equipos */
 /*--------------------*/
 
+.blog-image img {
+  width: 100%;
+  height: 500px;
+}
 
+.celularesCaracteristicas h3 {
+
+text-shadow: 0 0 6px #10487e;
+text-align: center;
+}
+
+
+
+
+.celularesCaracteristicas {
+  position: relative;
+  box-shadow: 3px 2px 15px 2px #045fb4a3;
+  float: right;
+  width: 30%;
+  height: auto;
+  background: white;
+  color: black;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  padding: 10px;
+  left: 600px;
+  bottom: 250px;
+
+}
 
 #equipos{
   display: inline;
@@ -737,20 +766,19 @@ textarea.materialize-textarea {
 .blog-content{
   display: inline;
   float: left;
-  width: 100%;
+  width: 70%;
 }
 
 
 .blog-image{
   display: inline;
   float: left;
-  width: 100%;
+  width: 500px;
+  height: auto;
 }
 
 
-.blog-image img{
-  width: 100%;
-}
+
 
 
 .blog-content h1 {
