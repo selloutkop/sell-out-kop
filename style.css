@@ -287,8 +287,9 @@ text-align: center;
 
 
 .celularesCaracteristicas {
-  left: 70px;
-  position: relative;
+  float: right;
+  margin-top: -80%;
+  margin-right: -71%;
   box-shadow: 3px 2px 15px 2px #045fb4a3;
   width: 350px;
   height: auto;
