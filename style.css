@@ -435,9 +435,6 @@ transition: background-color 0.5s ease-in-out;
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 /* samsungJ8  */
-#samsungJ8{
-  margin-left: 20%;
-}
 .celularesCaracteristicas h3 {
 
   text-shadow: 0 0 6px #10487e;
@@ -448,9 +445,6 @@ transition: background-color 0.5s ease-in-out;
 
 
 .celularesCaracteristicas {
-  float: right;
-  margin-top: -80%;
-  margin-right: -95%;
   box-shadow: 3px 2px 15px 2px #045fb4a3;
   width: 350px;
   height: auto;
