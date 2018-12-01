@@ -5,7 +5,7 @@
  */
  #p1c {
    width: 500px;
-   
+
  }
 
 .materialize-red.lighten-5 {
@@ -5158,6 +5158,11 @@ html {
   @media only screen and (min-width: 0) {
     html {
       font-size: 14px; } }
+  @media only screen and (max-width: 721px){
+    #contact-title{
+      margin-bottom: -20px;
+      margin-top: -3px;
+      margin-left: -12px; }}
   @media only screen and (min-width: 992px) {
     html {
       font-size: 14.5px; } }
