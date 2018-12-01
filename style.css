@@ -273,6 +273,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 /*--------------------*/
 
 .blog-image img {
+  margin-top: 15px;
   width: 100%;
 
 }
@@ -454,6 +455,8 @@ transition: background-color 0.5s ease-in-out;
   font-weight: 100;
   font-size: 20px;
   padding: 10px;
+  margin-top: 14px;
+  margin-right: 10%;
 
 }
 
