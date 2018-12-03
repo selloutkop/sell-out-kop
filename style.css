@@ -441,8 +441,14 @@ transition: background-color 0.5s ease-in-out;
   text-shadow: 0 0 6px #10487e;
   text-align: center;
 }
-
-
+#iphone5s{
+  width:70%;
+  margin-left: 75px;
+  margin-top: -15px;
+}
+#descrip-iphone5s{
+  margin-left: -17px;
+}
 
 
 .celularesCaracteristicas {
@@ -457,7 +463,7 @@ transition: background-color 0.5s ease-in-out;
   font-size: 20px;
   padding: 10px;
   margin-top: 14px;
-  margin-left: -30px;
+  margin-left: -15px;
 
 }
 .MRPCP{
@@ -786,7 +792,7 @@ textarea.materialize-textarea {
   float: left;
   width: 110%;
   height: auto;
-  margin-left: -15px;
+  margin-left: -30px;
 }
 
 
