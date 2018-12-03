@@ -601,7 +601,7 @@ textarea.materialize-textarea {
   padding:10%;
 }
 .footer-bottom{
-  background-color: #fff;
+  background-color: #000;
   display: inline;
   float: left;
   width: 100%;
@@ -628,7 +628,7 @@ textarea.materialize-textarea {
 
 
 .design-info a{
-  color: #555;
+  color: #045fb4;
 }
 
 
@@ -642,7 +642,7 @@ textarea.materialize-textarea {
 
 
 .up-btn {
-  background-color: #fff;
+  background-color: #b1dcfb;
   color: #000;
   left: 47.7%;
   position: absolute;
@@ -651,7 +651,7 @@ textarea.materialize-textarea {
 
 
 .up-btn i{
-  color: #000;
+  color: #045fb4;
 }
 
 
