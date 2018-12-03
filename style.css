@@ -448,6 +448,7 @@ transition: background-color 0.5s ease-in-out;
 .celularesCaracteristicas {
   box-shadow: 3px 2px 15px 2px #045fb4a3;
   width: 350px;
+  margin: auto;
   height: auto;
   background: white;
   color: black;
