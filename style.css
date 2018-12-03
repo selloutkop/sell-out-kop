@@ -459,6 +459,12 @@ transition: background-color 0.5s ease-in-out;
   margin-right: 10%;
 
 }
+.MRPCP{
+  font-weight: bold;
+}
+.INFO{
+  font-style: italic;
+}
 
 
 /*--------------------*/
