@@ -449,7 +449,13 @@ transition: background-color 0.5s ease-in-out;
 #descrip-iphone5s{
   margin-left: -17px;
 }
-
+#iphone6splus{
+  width: 27%;
+  margin-left: 110px;
+}
+#descrip-iphone6splus{
+  margin-left: -5px;
+}
 
 .celularesCaracteristicas {
   box-shadow: 3px 2px 15px 2px #045fb4a3;
