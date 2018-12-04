@@ -453,16 +453,20 @@ transition: background-color 0.5s ease-in-out;
   margin-left: 80px;
 }
 #dellLatitude{
-  width: 86%;
+  width: 80%;
+  margin-left: 15%;
 }
 #HPpavilon15{
-  width: 95%;
+  width: 88%;
+  margin-left: 7%;
 }
 #Dell6430{
   width: 95%;
+  margin-left: 5%;
 }
 #chargerU{
   width: 75%;
+  margin-left: 7%;
 }
 .celularesCaracteristicas {
   box-shadow: 3px 2px 15px 2px #045fb4a3;
