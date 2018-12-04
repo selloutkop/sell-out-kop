@@ -452,6 +452,9 @@ transition: background-color 0.5s ease-in-out;
   width: 58%;
   margin-left: 80px;
 }
+#dellLatitude{
+  width: 86%;
+}
 
 .celularesCaracteristicas {
   box-shadow: 3px 2px 15px 2px #045fb4a3;
