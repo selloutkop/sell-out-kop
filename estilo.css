@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+
+#slide {
+  position: relative;
+  margin: auto;
+  width: 100%;
+  height: auto;
+}
+
+#slide ul#slide1 {
+  /* display: inline; */
+  float: left;
+  width: 96%;
+  margin: 10px;
+  /* position: relative; */
+  top: 0;
+  left: 0;
+  /* width: 100%; */
+  height: 301px;
+   /* background: url(slide1.jpg); */
+}
+
+#slide ul#slide1 li img {
+  display: inline;
+  width: 100%;
+  position: absolute;
+  opacity: 0;
+  left: 0px;
+  transition:opacity 1s ease-out;
+}
+
+#slide ul#slide1 li label.slide2 {
+   position: relative;
+  z-index: 3;
+  top: 270px;
+  left: 500px;
+  float: left;
+  /* width: 10px;
+  height: 10px; */
+  margin: 0 2px;
+  /* background: #045FB4; */
+  border: 3px solid white;
+  cursor: pointer;
+  border-radius: 100%;
+
+}
+#slide ul#slide1 li label.slide2:hover {
+  /* background: #aaa; */
+}
+
+#slide ul#slide1 li label.slide2:active {
+  /* background: magenta; */
+}
+
+
+
+#slide ul#slide1 li input {
+  display: none;
+}
+
+#slide ul#slide1 li input#boton-1:checked ~ #foto01 {
+  opacity: 1;
+}
+
+#slide ul#slide1 li input#boton-2:checked ~ #foto02 {
+  opacity: 1;
+}
+#slide ul#slide1 li input#boton-3:checked ~ #foto03 {
+  opacity: 1;
+}
+#slide ul#slide1 li input#boton-4:checked ~ #foto04 {
+  opacity: 1;
+}
