@@ -137,6 +137,7 @@ esta seccion se puede borrar la deje por si cambian de opinion no copiar el codi
 #home .overlay-section {
   height: 100%;
   width: 100%;
+  position: relative;
 }
 
 .home-inner {
